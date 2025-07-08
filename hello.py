@@ -30,3 +30,6 @@ def test_calcular():
     assert calcular('divisao', 6, 0) == "Erro: Divisão por zero"
     assert calcular('modulo', 6, 3) == "Operação inválida"
     print("Todos os testes passaram!")
+
+
+# Gustavo é Gay
