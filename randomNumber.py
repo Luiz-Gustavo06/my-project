@@ -8,4 +8,7 @@ if numero_aleatorio % 2 == 0:
     print(f"O número {numero_aleatorio} é par.")
 else:
     print(f"O número {numero_aleatorio} é ímpar.")
-    
+
+
+print('Volte sempre!!')
+ 
